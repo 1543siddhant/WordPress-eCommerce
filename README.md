@@ -147,11 +147,11 @@ and follow the on-screen prompts.
 
 ## Screenshots
 
-- `apple1.jpg` – Homepage with hero banner showcasing organic produce.  
-- `apple2.jpg` – Shop page listing products with filters.  
-- `apple3.jpg` – Single product detail page with “Add to Cart”.  
-- `apple4.jpg` – Cart overview before checkout.  
-- `apple5.jpg` – Custom contact form powered by WPForms.
+- `Organic Store 1.jpg` – Homepage with hero banner showcasing organic produce.  
+- `Organic Store 2.jpg` – Shop page listing products with filters.  
+- `Organic Store 3.jpg` – Single product detail page with “Add to Cart”.  
+- `Organic Store 4.jpg` – Cart overview before checkout.  
+- `Organic Store 5.jpg` – Custom contact form powered by WPForms.
 
 ---
 
@@ -171,12 +171,5 @@ and follow the on-screen prompts.
 4. Push (`git push origin feature-name`)  
 5. Open a Pull Request
 
----
-
-## License
-
-Distributed under the MIT License. See LICENSE file for details.
-
----
 
 Thank you for checking out the Organic Store project! Feel free to reach out with issues or feature requests.
