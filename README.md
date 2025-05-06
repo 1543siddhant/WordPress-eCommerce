@@ -3,6 +3,8 @@
 A clean, eco-friendly e-commerce site built on WordPress to showcase and sell organic products.
 
 **Live Demo:** [Organic Store Demo](https://dev-siddhant-ecommerce2.pantheonsite.io/)  
+
+
 **YouTube Walkthrough:** [Watch Demo Video](https://youtu.be/R9vVAzHpMs8)
 
 ---
